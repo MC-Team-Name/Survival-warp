@@ -1,0 +1,5 @@
+name: Survival-warp-Island
+main: com.Jongyeol.NameServer.Survival.Warp.Island.MainPlugin
+version: 1.0.0
+api-version: 1.13
+author: Jongyeol

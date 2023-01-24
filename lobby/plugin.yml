@@ -1,0 +1,5 @@
+name: Survival-warp-Lobby
+main: com.Jongyeol.NameServer.Survival.Warp.Lobby.MainPlugin
+version: 1.0.0
+api-version: 1.13
+author: Jongyeol
